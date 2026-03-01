@@ -2,39 +2,43 @@
 
 Software Developer focused on backend architecture and cross-platform systems.
 
-I build scalable mobile and backend applications using Flutter and Spring Boot, designing structured APIs, authentication flows, and containerized environments.
+I design and build structured backend services and mobile applications using Flutter and Spring Boot, with emphasis on clean architecture, scalability, and long-term maintainability.
 
 ---
 
-## Core Stack
+## Core Technologies
 
-- Flutter
-- Spring Boot
-- NestJS
-- MySQL
-- Docker
-
----
-
-## Backend Focus
-
-- RESTful API design  
-- JWT authentication & role-based access control  
-- Relational database modeling  
-- Dockerized development & deployment  
-- Integration with third-party services  
+- Flutter (Cross-platform mobile development)
+- Spring Boot (Backend services & REST APIs)
+- NestJS (Node.js backend framework)
+- MySQL (Relational database modeling)
+- Docker (Containerized environments)
 
 ---
 
-## Current Interests
+## Engineering Focus
 
-- System design  
-- Clean architecture  
-- Backend performance & reliability  
-- Scalable service structures  
+- RESTful API design and service layering
+- JWT-based authentication and role-based access control
+- Relational data modeling and query optimization
+- Transaction boundaries and backend consistency
+- Clean architecture and modular system structure
+- Docker-based local and production setups
 
 ---
 
-## Connect with me
+## Selected Work
 
-[LinkedIn](https://www.linkedin.com/in/matheusgomes-/)
+### PedComVc
+Full-stack system built with Flutter (mobile) and Spring Boot / NestJS (backend), including:
+- API architecture
+- Authentication flows
+- Role-based access control
+- Database modeling
+- Containerized deployment
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/matheusgomes-/
