@@ -1,44 +1,55 @@
 # Matheus Gomes
 
-Software Developer focused on backend architecture and cross-platform systems.
+**Software Developer focused on backend architecture, distributed systems, and cross-platform applications.**
 
-I design and build structured backend services and mobile applications using Flutter and Spring Boot, with emphasis on clean architecture, scalability, and long-term maintainability.
+I design and build scalable backend services and mobile applications using Flutter, Spring Boot, and NestJS, with strong emphasis on **clean architecture, hexagonal design, and long-term maintainability**.
 
 ---
 
-## Core Technologies
+## 🚀 Core Technologies
 
 - Flutter (Cross-platform mobile development)
-- Spring Boot (Backend services & REST APIs)
-- NestJS (Node.js backend framework)
-- MySQL (Relational database modeling)
+- Spring Boot & NestJS (Backend services & APIs)
+- MySQL & PostgreSQL (Relational databases)
+- Redis (Caching & performance optimization)
+- RabbitMQ (Event-driven architecture & async processing)
 - Docker (Containerized environments)
 
 ---
 
-## Engineering Focus
+## 🧠 Engineering Focus
 
-- RESTful API design and service layering
-- JWT-based authentication and role-based access control
-- Relational data modeling and query optimization
-- Transaction boundaries and backend consistency
-- Clean architecture and modular system structure
-- Docker-based local and production setups
+- Scalable API design and service-oriented architectures  
+- JWT-based authentication with **role-based and permission-driven access control (RBAC)**  
+- Event-driven systems using **RabbitMQ (queues, retries, decoupling)**  
+- Performance optimization using **Redis caching strategies**  
+- Relational data modeling, query optimization, and consistency  
+- Transaction management and backend reliability  
+- Clean Architecture & **Hexagonal Architecture (Ports & Adapters)**  
+- Containerized environments for development and production  
 
 ---
 
-## Selected Work
+## 💼 Selected Work
 
 ### PedComVc
-Full-stack system built with Flutter (mobile) and Spring Boot / NestJS (backend), including:
-- API architecture
-- Authentication flows
-- Role-based access control
-- Database modeling
-- Containerized deployment
+
+Full-stack healthcare communication platform built with Flutter (mobile) and Spring Boot / NestJS (backend).
+
+**Key contributions:**
+
+- Designed and implemented **scalable API architecture**
+- Built **JWT authentication and role-based access control (RBAC)**
+- Implemented **automated payment flows and revenue splitting (repasse)**
+- Integrated **asynchronous processing with RabbitMQ**
+- Applied **Redis caching for performance optimization**
+- Structured backend using **clean and hexagonal architecture principles**
+- Designed relational database models focused on scalability and consistency
+- Managed containerized environments using Docker
 
 ---
 
-## Contact
+## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/matheusgomes-/
+- LinkedIn: https://www.linkedin.com/in/matheusgomes-/
+- GitHub: https://github.com/mtthgomes
